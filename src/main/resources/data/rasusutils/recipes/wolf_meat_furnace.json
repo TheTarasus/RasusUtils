@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "rasusutils:raw_wolf_meat"
+    },
+    "result": "rasusutils:cooked_wolf_meat",
+    "experience": 0.1,
+    "cookingtime": 800
+}

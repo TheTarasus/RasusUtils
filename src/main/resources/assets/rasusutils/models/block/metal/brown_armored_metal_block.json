@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "rasusutils:block/metal/brown_armored_metal_block"
+    }
+}

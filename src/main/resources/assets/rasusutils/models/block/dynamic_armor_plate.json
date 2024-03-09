@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "rasusutils:block/dynamic_armor_plate"
+    }
+}

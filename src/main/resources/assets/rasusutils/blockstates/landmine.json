@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "rasusutils:block/landmine"
+    },
+    "powered=true": {
+      "model": "minecraft:block/tripwire_n"
+    }
+  }
+}

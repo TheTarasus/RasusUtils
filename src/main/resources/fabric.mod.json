@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "rasusutils",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "RasusUtils",
+  "description": "Utils on CourtOfRasus!",
   "authors": [
-    "Me!"
+    "TheTarasus_01"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,11 +19,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "ru.thetarasus.rasusutils.RasusUtils"
+    ],
+    "client": [
+      "ru.thetarasus.rasusutils.OverridenClient"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "rasusutils.mixins.json"
   ],
 
   "depends": {

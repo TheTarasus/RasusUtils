@@ -1,0 +1,68 @@
+{
+  "item.rasusutils.raw_wolf_meat": "Сырое волчье мясо",
+  "item.rasusutils.cooked_wolf_meat": "Приготовленное волчье мясо",
+  "item.rasusutils.fur":  "Мех",
+
+  "item.rasusutils.fur_helmet": "Ушанка",
+  "item.rasusutils.fur_chestplate": "Тулуп",
+  "item.rasusutils.fur_leggings": "Меховые штаны",
+  "item.rasusutils.fur_boots": "Валенки",
+
+
+  "item.rasusutils.lightweight_helmet": "Панамка",
+  "item.rasusutils.lightweight_chestplate": "Лёгкая майка",
+  "item.rasusutils.lightweight_leggings": "Шорты",
+  "item.rasusutils.lightweight_boots": "Лёгкие Кроссовки",
+
+  "item.rasusutils.brass_sword": "Латунный меч",
+  "item.rasusutils.brass_shovel": "Латунная лопата",
+  "item.rasusutils.brass_pickaxe": "Латунная кирка",
+  "item.rasusutils.brass_axe": "Латунный топор",
+  "item.rasusutils.brass_hoe": "Латунная мотыга",
+
+  "block.rasusutils.landmine": "Мина",
+
+  "block.rasusutils.black_armored_concrete_block": "Чёрный армированый бетон",
+  "block.rasusutils.gray_armored_concrete_block": "Серый армированый бетон",
+  "block.rasusutils.light_gray_armored_concrete_block": "Светло-серый армированый бетон",
+  "block.rasusutils.white_armored_concrete_block": "Белый армированый бетон",
+  "block.rasusutils.blue_armored_concrete_block": "Синий армированый бетон",
+  "block.rasusutils.brown_armored_concrete_block": "Коричневый армированый бетон",
+  "block.rasusutils.cyan_armored_concrete_block": "Бирюзовый армированый бетон",
+  "block.rasusutils.green_armored_concrete_block": "Зелёный армированый бетон",
+  "block.rasusutils.light_blue_armored_concrete_block": "Голубой армированый бетон",
+  "block.rasusutils.lime_armored_concrete_block": "Лаймовый армированый бетон",
+  "block.rasusutils.magenta_armored_concrete_block": "Сиреневый армированый бетон",
+  "block.rasusutils.orange_armored_concrete_block": "Оранжевый армированый бетон",
+  "block.rasusutils.pink_armored_concrete_block": "Розовый армированый бетон",
+  "block.rasusutils.purple_armored_concrete_block": "Фиолетовый армированый бетон",
+  "block.rasusutils.red_armored_concrete_block": "Красный армированый бетон",
+  "block.rasusutils.yellow_armored_concrete_block": "Жёлтый армированый бетон",
+
+
+
+  "block.rasusutils.black_armored_metal_block": "Чёрная оцинкованая броня",
+  "block.rasusutils.gray_armored_metal_block": "Серая оцинкованая броня",
+  "block.rasusutils.light_gray_armored_metal_block": "Светло-серая оцинкованая броня",
+  "block.rasusutils.white_armored_metal_block": "Белая оцинкованая броня",
+  "block.rasusutils.blue_armored_metal_block": "Синяя оцинкованая броня",
+  "block.rasusutils.brown_armored_metal_block": "Коричневая оцинкованая броня",
+  "block.rasusutils.cyan_armored_metal_block": "Бирюзовая оцинкованая броня",
+  "block.rasusutils.green_armored_metal_block": "Зелёная оцинкованая броня",
+  "block.rasusutils.light_blue_armored_metal_block": "Светло-синяя оцинкованая броня",
+  "block.rasusutils.lime_armored_metal_block": "Лаймовая оцинкованая броня",
+  "block.rasusutils.magenta_armored_metal_block": "Сиреневая оцинкованая броня",
+  "block.rasusutils.orange_armored_metal_block": "Оранжевая оцинкованая броня",
+  "block.rasusutils.pink_armored_metal_block": "Розовая оцинкованая броня",
+  "block.rasusutils.purple_armored_metal_block": "Фиолетовая оцинкованая броня",
+  "block.rasusutils.red_armored_metal_block": "Красная оцинкованая броня",
+  "block.rasusutils.yellow_armored_metal_block": "Жёлтая оцинкованая броня",
+
+
+  "enchantment.rasusutils.toughness": "♞ Жёсткость",
+  "enchantment.rasusutils.patience": "♞ Безмятежность",
+  "enchantment.rasusutils.float": "♞ Поплавок",
+
+  "item.rasusutils.bronze_ingot": "Бронзовый слиток",
+  "item.rasusutils.steel_ingot": "Стальной слиток"
+}

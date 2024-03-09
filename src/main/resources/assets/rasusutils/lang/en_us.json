@@ -1,0 +1,68 @@
+{
+  "item.rasusutils.raw_wolf_meat": "Raw wolf meat",
+  "item.rasusutils.cooked_wolf_meat": "Cooked wolf meat",
+  "item.rasusutils.fur":  "Fur",
+
+  "item.rasusutils.fur_helmet": "Fur ushanka",
+  "item.rasusutils.fur_chestplate": "Fur coat",
+  "item.rasusutils.fur_leggings": "Fur pants",
+  "item.rasusutils.fur_boots": "Fur Valenki",
+
+
+  "item.rasusutils.lightweight_helmet": "Panama hat",
+  "item.rasusutils.lightweight_chestplate": "T-Shirt",
+  "item.rasusutils.lightweight_leggings": "Shorts",
+  "item.rasusutils.lightweight_boots": "Lightweight Sneakers",
+
+  "item.rasusutils.brass_sword": "Brass sword",
+  "item.rasusutils.brass_shovel": "Brass shovel",
+  "item.rasusutils.brass_pickaxe": "Brass pickaxe",
+  "item.rasusutils.brass_axe": "Brass axe",
+  "item.rasusutils.brass_hoe": "Brass hoe",
+
+  "block.rasusutils.landmine": "Landmine",
+
+  "block.rasusutils.black_armored_concrete_block": "Black armored concrete",
+  "block.rasusutils.gray_armored_concrete_block": "Gray armored concrete",
+  "block.rasusutils.light_gray_armored_concrete_block": "Light gray armored concrete",
+  "block.rasusutils.white_armored_concrete_block": "White armored concrete",
+  "block.rasusutils.blue_armored_concrete_block": "Blue armored concrete",
+  "block.rasusutils.brown_armored_concrete_block": "Brown armored concrete",
+  "block.rasusutils.cyan_armored_concrete_block": "Cyan armored concrete",
+  "block.rasusutils.green_armored_concrete_block": "Green armored concrete",
+  "block.rasusutils.light_blue_armored_concrete_block": "Light blue armored concrete",
+  "block.rasusutils.lime_armored_concrete_block": "Lime armored concrete",
+  "block.rasusutils.magenta_armored_concrete_block": "Magenta armored concrete",
+  "block.rasusutils.orange_armored_concrete_block": "Orange armored concrete",
+  "block.rasusutils.pink_armored_concrete_block": "Pink armored concrete",
+  "block.rasusutils.purple_armored_concrete_block": "Purple armored concrete",
+  "block.rasusutils.red_armored_concrete_block": "Red armored concrete",
+  "block.rasusutils.yellow_armored_concrete_block": "Yellow armored concrete",
+
+
+
+  "block.rasusutils.black_armored_metal_block": "Black armored metal",
+  "block.rasusutils.gray_armored_metal_block": "Gray armored metal",
+  "block.rasusutils.light_gray_armored_metal_block": "Light gray armored metal",
+  "block.rasusutils.white_armored_metal_block": "White armored metal",
+  "block.rasusutils.blue_armored_metal_block": "Blue armored metal",
+  "block.rasusutils.brown_armored_metal_block": "Brown armored metal",
+  "block.rasusutils.cyan_armored_metal_block": "Cyan armored metal",
+  "block.rasusutils.green_armored_metal_block": "Green armored metal",
+  "block.rasusutils.light_blue_armored_metal_block": "Light blue armored metal",
+  "block.rasusutils.lime_armored_metal_block": "Lime armored metal",
+  "block.rasusutils.magenta_armored_metal_block": "Magenta armored metal",
+  "block.rasusutils.orange_armored_metal_block": "Orange armored metal",
+  "block.rasusutils.pink_armored_metal_block": "Pink armored metal",
+  "block.rasusutils.purple_armored_metal_block": "Purple armored metal",
+  "block.rasusutils.red_armored_metal_block": "Red armored metal",
+  "block.rasusutils.yellow_armored_metal_block": "Yellow armored metal",
+
+
+  "enchantment.rasusutils.toughness": "♞ Toughness",
+  "enchantment.rasusutils.patience": "♞ Patience",
+  "enchantment.rasusutils.float": "♞ Floating",
+
+  "item.rasusutils.bronze_ingot": "Bronze ingot",
+  "item.rasusutils.steel_ingot": "Steel ingot"
+}

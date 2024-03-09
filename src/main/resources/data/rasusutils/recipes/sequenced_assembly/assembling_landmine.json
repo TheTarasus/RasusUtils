@@ -1,0 +1,49 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_sheet"
+  },
+  "transitionalItem": {
+    "item": "rasusutils:partially_assembled_landmine"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "rasusutils:partially_assembled_landmine"
+        },
+        {
+          "item": "minecraft:gunpowder"
+        }
+      ],
+      "results": [
+        {
+          "item": "rasusutils:partially_assembled_landmine"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "rasusutils:partially_assembled_landmine"
+        },
+        {
+          "item": "minecraft:tripwire_hook"
+        }
+      ],
+      "results": [
+        {
+          "item": "rasusutils:partially_assembled_landmine"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "rasusutils:landmine"
+    }
+  ],
+  "loops": 1
+}

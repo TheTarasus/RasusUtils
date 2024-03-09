@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "rasusutils:white_armored_metal_block",
+    "rasusutils:orange_armored_metal_block",
+    "rasusutils:magenta_armored_metal_block",
+    "rasusutils:light_blue_armored_metal_block",
+    "rasusutils:yellow_armored_metal_block",
+    "rasusutils:lime_armored_metal_block",
+    "rasusutils:pink_armored_metal_block",
+    "rasusutils:gray_armored_metal_block",
+    "rasusutils:light_gray_armored_metal_block",
+    "rasusutils:cyan_armored_metal_block",
+    "rasusutils:purple_armored_metal_block",
+    "rasusutils:blue_armored_metal_block",
+    "rasusutils:brown_armored_metal_block",
+    "rasusutils:green_armored_metal_block",
+    "rasusutils:red_armored_metal_block",
+    "rasusutils:black_armored_metal_block"
+    ]
+}

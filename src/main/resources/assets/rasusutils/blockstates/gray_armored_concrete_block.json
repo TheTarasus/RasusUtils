@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rasusutils:block/concrete/gray_armored_concrete_block"
+    }
+  }
+}
